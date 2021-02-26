@@ -1,2 +1,2 @@
 # VBA-challenge
-Homework Week 2
+Objective: Use VBA scripting to analyze real stock market data.
